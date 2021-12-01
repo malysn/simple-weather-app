@@ -1,0 +1,24 @@
+<!-- drawable/body_.xml -->
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="1020.5dp"
+    android:height="1631.61dp"
+    android:viewportWidth="1020.5"
+    android:viewportHeight="1631.61"
+    >
+
+    <group>
+
+        <clip-path
+            android:pathData="M65 0H955.497C991.396 0 1020.5 29.1015 1020.5 65V1566.61C1020.5 1602.51 991.396 1631.61 955.497 1631.61H65C29.1015 1631.61 0 1602.51 0 1566.61V65C0 29.1015 29.1015 0 65 0Z"
+            />
+
+        <path
+            android:pathData="M0 0V1631.61H1020.5V0"
+            android:fillColor="#FFFFFF"
+            />
+
+    </group>
+
+</vector>

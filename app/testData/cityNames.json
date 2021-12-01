@@ -1,0 +1,22 @@
+{
+	"Test Data" : [
+	{
+		"CityName" : "Kuala Lumpur",
+	},
+	{
+		"CityName" : "Pune",
+	},
+	{
+		"CityName" : "London",
+	},
+	{
+		"CityName" : "New York", 
+	},
+	{
+		"CityName" : "Tokyo",
+	},
+	{
+		"CityName" : "Sydney",
+	}
+	]
+}
